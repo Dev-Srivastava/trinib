@@ -40,22 +40,7 @@
 
 
 
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-
-<div align="center">
-  
-```diff
-```
-  
-</div>
-  
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
 <!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
@@ -66,8 +51,7 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
