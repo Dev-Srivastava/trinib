@@ -1,22 +1,33 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<!--🖼️RICK-->
-<p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-
-<!--📏LINE-->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="250" height="200"/>
+  
+  
+  <!-- Socials -->
+<div id="badges">
+  <h3>Connect with me:</h3>
+  
+  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Dev Srivastava on LinkedIn" title="Follow Dev Srivastava on LinkedIn"/>](https://www.linkedin.com/in/dev-srivastava-76ba31222/)
+[<img src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" height="40em" height="10em" align="center" alt="Mail Dev Srivastava on Gmail" title="Mail Dev Srivastava on Gmail"/>](mailto:devsrivastava898@gmail.com)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Dev Srivastava on Instagram" title="Follow Dev Srivastava on Instagram"/>](https://www.instagram.com/dev0_0srivastava/)
+</div>
+  
+  
+  
+  <img src="https://komarev.com/ghpvc/?username=Dev-Srivastava&style=flat-square&color=blue" alt=""/>
+  
+  <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+  <!--Obi-Wan-->
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="370" height="240"/>
+ </div>
+
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<!--🦜PARROTS EMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
@@ -49,25 +60,6 @@
 <div align="center">
   
 ```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
   
 </div>
@@ -506,3 +498,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!---
+Dev-Srivastava/Dev-Srivastava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
